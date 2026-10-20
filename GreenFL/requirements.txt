@@ -1,0 +1,16 @@
+# Núcleo de Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Federated Learning
+flwr>=1.5.0
+
+# Procesamiento de Datos y Telemetría
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualización
+matplotlib>=3.7.0
+
+# Calidad de Código y Tests (Opcional)
+pytest>=7.3.0
